@@ -1,0 +1,15 @@
+O:\VSCode\C#\Exampels\Example_DIV\bin\Debug\net6.0\Example_DIV.exe
+O:\VSCode\C#\Exampels\Example_DIV\bin\Debug\net6.0\Example_DIV.deps.json
+O:\VSCode\C#\Exampels\Example_DIV\bin\Debug\net6.0\Example_DIV.runtimeconfig.json
+O:\VSCode\C#\Exampels\Example_DIV\bin\Debug\net6.0\Example_DIV.dll
+O:\VSCode\C#\Exampels\Example_DIV\bin\Debug\net6.0\Example_DIV.pdb
+O:\VSCode\C#\Exampels\Example_DIV\obj\Debug\net6.0\Example_DIV.csproj.AssemblyReference.cache
+O:\VSCode\C#\Exampels\Example_DIV\obj\Debug\net6.0\Example_DIV.GeneratedMSBuildEditorConfig.editorconfig
+O:\VSCode\C#\Exampels\Example_DIV\obj\Debug\net6.0\Example_DIV.AssemblyInfoInputs.cache
+O:\VSCode\C#\Exampels\Example_DIV\obj\Debug\net6.0\Example_DIV.AssemblyInfo.cs
+O:\VSCode\C#\Exampels\Example_DIV\obj\Debug\net6.0\Example_DIV.csproj.CoreCompileInputs.cache
+O:\VSCode\C#\Exampels\Example_DIV\obj\Debug\net6.0\Example_DIV.dll
+O:\VSCode\C#\Exampels\Example_DIV\obj\Debug\net6.0\refint\Example_DIV.dll
+O:\VSCode\C#\Exampels\Example_DIV\obj\Debug\net6.0\Example_DIV.pdb
+O:\VSCode\C#\Exampels\Example_DIV\obj\Debug\net6.0\Example_DIV.genruntimeconfig.cache
+O:\VSCode\C#\Exampels\Example_DIV\obj\Debug\net6.0\ref\Example_DIV.dll
