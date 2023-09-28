@@ -1,0 +1,15 @@
+O:\VSCode\C#\Exampels\Example_Sum\obj\Debug\net6.0\Example_Sum.csproj.AssemblyReference.cache
+O:\VSCode\C#\Exampels\Example_Sum\obj\Debug\net6.0\Example_Sum.GeneratedMSBuildEditorConfig.editorconfig
+O:\VSCode\C#\Exampels\Example_Sum\obj\Debug\net6.0\Example_Sum.AssemblyInfoInputs.cache
+O:\VSCode\C#\Exampels\Example_Sum\obj\Debug\net6.0\Example_Sum.AssemblyInfo.cs
+O:\VSCode\C#\Exampels\Example_Sum\obj\Debug\net6.0\Example_Sum.csproj.CoreCompileInputs.cache
+O:\VSCode\C#\Exampels\Example_Sum\bin\Debug\net6.0\Example_Sum.exe
+O:\VSCode\C#\Exampels\Example_Sum\bin\Debug\net6.0\Example_Sum.deps.json
+O:\VSCode\C#\Exampels\Example_Sum\bin\Debug\net6.0\Example_Sum.runtimeconfig.json
+O:\VSCode\C#\Exampels\Example_Sum\bin\Debug\net6.0\Example_Sum.dll
+O:\VSCode\C#\Exampels\Example_Sum\bin\Debug\net6.0\Example_Sum.pdb
+O:\VSCode\C#\Exampels\Example_Sum\obj\Debug\net6.0\Example_Sum.dll
+O:\VSCode\C#\Exampels\Example_Sum\obj\Debug\net6.0\refint\Example_Sum.dll
+O:\VSCode\C#\Exampels\Example_Sum\obj\Debug\net6.0\Example_Sum.pdb
+O:\VSCode\C#\Exampels\Example_Sum\obj\Debug\net6.0\Example_Sum.genruntimeconfig.cache
+O:\VSCode\C#\Exampels\Example_Sum\obj\Debug\net6.0\ref\Example_Sum.dll
