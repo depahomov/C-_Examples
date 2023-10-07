@@ -1,0 +1,4 @@
+{
+    "editor.defaultFoldingRangeProvider": "ms-dotnettools.csdevkit",
+    "editor.defaultFormatter": "ms-dotnettools.csdevkit"
+}
